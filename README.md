@@ -24,7 +24,7 @@ Test Command:
 To test type Click "Start Quiz" and answer questions. into the terminal
 
 Github:
-Check out more projects on my Github at https://github.com/ReindeerCode
+Check out more projects on my Github at https://github.com/gutemsilvares
 
 My Email Address:
 If you have any questions please feel free to email me.
