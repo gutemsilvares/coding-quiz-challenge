@@ -1,5 +1,4 @@
 Project: Web APIs: Code Quiz
-Deployable Link - > https://reindeercode.github.io/Web-APIs-Code-Quiz/
 
 Table of Contents:
 Project: Web APIs: Code Quiz
@@ -28,7 +27,7 @@ Github:
 Check out more projects on my Github at https://github.com/ReindeerCode
 
 My Email Address:
-If you have any questions please feel free to email me at ReindeerCode@gmail.com
+If you have any questions please feel free to email me.
 
 Other Contributors:
 None at this time.
